@@ -1,0 +1,852 @@
+[
+  {
+    "raw_value": 11000000000.0,
+    "adjusted_value": 11000000000.0,
+    "text": " 11B",
+    "context": "priation and not recovered in rates per FMR Volume 11B, Chapter 14",
+    "page": 1,
+    "position": {
+      "start": 150,
+      "end": 154,
+      "level": 2
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "footnote",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9600000000.0,
+    "adjusted_value": 9600000000.0,
+    "text": "$9.6 billion",
+    "context": " primary focus on wartime readiness. USTRANSCOM's $9.6 billion budget provides synchronized transportation and s",
+    "page": 1,
+    "position": {
+      "start": 142,
+      "end": 154,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9600000000.0,
+    "adjusted_value": 9600000000.0,
+    "text": "$9.6 billion",
+    "context": "oD with a primary focus on wartime readiness. Our $9.6 billion budget provides synchronized transportation and s",
+    "page": 1,
+    "position": {
+      "start": 133,
+      "end": 145,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9000000000.0,
+    "adjusted_value": 9000000000.0,
+    "text": " 9B",
+    "context": "Fund 9B (Dollars in Thousands)",
+    "page": 1,
+    "position": {
+      "start": 4,
+      "end": 7,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 3000000000.0,
+    "adjusted_value": 3000000000.0,
+    "text": "3B",
+    "context": "SM-3B",
+    "page": 1,
+    "position": {
+      "start": 3,
+      "end": 5,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 3000000000.0,
+    "adjusted_value": 3000000000.0,
+    "text": "3B",
+    "context": "SM-3B CSAG - Supply Division",
+    "page": 1,
+    "position": {
+      "start": 3,
+      "end": 5,
+      "level": 2
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "page_footer",
+    "table_context": ""
+  },
+  {
+    "raw_value": 3000000000.0,
+    "adjusted_value": 3000000000.0,
+    "text": "3B",
+    "context": "SM-3B",
+    "page": 1,
+    "position": {
+      "start": 3,
+      "end": 5,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 3000000000.0,
+    "adjusted_value": 3000000000.0,
+    "text": "3B",
+    "context": "SM-3B CSAG - Supply Division",
+    "page": 1,
+    "position": {
+      "start": 3,
+      "end": 5,
+      "level": 2
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "page_footer",
+    "table_context": ""
+  },
+  {
+    "raw_value": 3000000000.0,
+    "adjusted_value": 3000000000.0,
+    "text": "3B",
+    "context": "SM-3B",
+    "page": 1,
+    "position": {
+      "start": 3,
+      "end": 5,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 3000000000.0,
+    "adjusted_value": 3000000000.0,
+    "text": "3B",
+    "context": "SM-3B CSAG - Supply Division",
+    "page": 1,
+    "position": {
+      "start": 3,
+      "end": 5,
+      "level": 2
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "page_footer",
+    "table_context": ""
+  },
+  {
+    "raw_value": 2239300000.0,
+    "adjusted_value": 2239300000.0,
+    "text": "$2,239.3 million",
+    "context": "lower range is $825.1 million. The upper range is $2,239.3 million. The difference between the two ranges results in",
+    "page": 1,
+    "position": {
+      "start": 365,
+      "end": 381,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 2000000000.0,
+    "adjusted_value": 2000000000.0,
+    "text": " 2b",
+    "context": " related efforts in accordance with DoD FMR Volume 2b, Chapter 9, Section 1.5.14.9.",
+    "page": 1,
+    "position": {
+      "start": 181,
+      "end": 184,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 1730800000.0,
+    "adjusted_value": 1730800000.0,
+    "text": "$1,730.8 million",
+    "context": " upper and lower cash limits, ending FY 2025 with $1,730.8 million.",
+    "page": 1,
+    "position": {
+      "start": 383,
+      "end": 399,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 1449000000.0,
+    "adjusted_value": 1449000000.0,
+    "text": "$1,449 million",
+    "context": "The cash position includes collection of FY23 ARA $1,449 million requirement. Ending cash balance is below the low",
+    "page": 1,
+    "position": {
+      "start": 170,
+      "end": 184,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 1449000000.0,
+    "adjusted_value": 1449000000.0,
+    "text": "$1,449 million",
+    "context": "The cash position includes collection of FY23 ARA $1,449 million requirement. Ending cash balance is below the low",
+    "page": 1,
+    "position": {
+      "start": 167,
+      "end": 181,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 1414200000.0,
+    "adjusted_value": 1414200000.0,
+    "text": "$1,414.2 million",
+    "context": " The difference between the two ranges results in $1,414.2 million as the basic operating range.",
+    "page": 1,
+    "position": {
+      "start": 432,
+      "end": 448,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 864000000.0,
+    "adjusted_value": 864000000.0,
+    "text": "$864.0 million",
+    "context": "  to  $210.0  million. USTRANSCOM cash balance is $864.0 million below the  cash  lower  boundary.  USTRANSCOM  co",
+    "page": 1,
+    "position": {
+      "start": 150,
+      "end": 164,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 864000000.0,
+    "adjusted_value": 864000000.0,
+    "text": "$864 million",
+    "context": "llion to $210 million. USTRANSCOM cash balance is $864 million below the cash lower boundary. USTRANSCOM continu",
+    "page": 1,
+    "position": {
+      "start": 130,
+      "end": 142,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 844000000.0,
+    "adjusted_value": 844000000.0,
+    "text": "$844.0 million",
+    "context": "  to  $197.0  million. USTRANSCOM cash balance is $844.0 million below the  cash  lower  boundary.  USTRANSCOM  co",
+    "page": 1,
+    "position": {
+      "start": 150,
+      "end": 164,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 844000000.0,
+    "adjusted_value": 844000000.0,
+    "text": "$844 million",
+    "context": "llion to $197 million. USTRANSCOM cash balance is $844 million below the cash lower boundary. USTRANSCOM continu",
+    "page": 1,
+    "position": {
+      "start": 130,
+      "end": 142,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 825100000.0,
+    "adjusted_value": 825100000.0,
+    "text": "$825.1 million",
+    "context": "rsement is $733.2 million, and the lower range is $825.1 million. The upper range is $2,239.3 million. The differe",
+    "page": 1,
+    "position": {
+      "start": 330,
+      "end": 344,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 769300000.0,
+    "adjusted_value": 769300000.0,
+    "text": "$769.3 million",
+    "context": " reflect an Accumulated Operating Result (AOR) of $769.3 million and primarily due to GSD. Expenses increase prima",
+    "page": 1,
+    "position": {
+      "start": 167,
+      "end": 181,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 733200000.0,
+    "adjusted_value": 733200000.0,
+    "text": "$733.2 million,",
+    "context": "In FY 2025, the projected rate of disbursement is $733.2 million, and the lower range is $825.1 million. The upper ",
+    "page": 1,
+    "position": {
+      "start": 291,
+      "end": 306,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 732000000.0,
+    "adjusted_value": 732000000.0,
+    "text": "$732 million",
+    "context": " the  highest and lowest expected cash level with $732 million as the basic operating range. Risk Mitigation inc",
+    "page": 1,
+    "position": {
+      "start": 166,
+      "end": 178,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 692000000.0,
+    "adjusted_value": 692000000.0,
+    "text": "$692.0 million",
+    "context": "SH: FY 2023 cash increased from $346.0 million to $692.0 million due to increased collection rate. The cash positi",
+    "page": 1,
+    "position": {
+      "start": 71,
+      "end": 85,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 636400000.0,
+    "adjusted_value": 636400000.0,
+    "text": "$636.4 million",
+    "context": "GSD returns profits ending with a deferred AOR of $636.4 million. The deferred AOR reduces insolvency risk in GSD ",
+    "page": 1,
+    "position": {
+      "start": 702,
+      "end": 716,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 519000000.0,
+    "adjusted_value": 519000000.0,
+    "text": "$346 million to $692 million",
+    "context": "023 USTRANSCOM CASH:  FY 2023 cash increased from $346 million to $692 million due to increased collection rate. The cash positi",
+    "page": 1,
+    "position": {
+      "start": 54,
+      "end": 82,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 481100000.0,
+    "adjusted_value": 481100000.0,
+    "text": "$481.1 million",
+    "context": "FY 2025, AFWCF Blue cash plan increases by $481.1 million during the year and will be within the operating ",
+    "page": 1,
+    "position": {
+      "start": 43,
+      "end": 57,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 454100000.0,
+    "adjusted_value": 454100000.0,
+    "text": "$454.1 million,",
+    "context": " return is held. The AOR retention for FY 2025 is $454.1 million, and is comprised primarily of GSD, CSAG-S and CSA",
+    "page": 1,
+    "position": {
+      "start": 383,
+      "end": 398,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 444500000.0,
+    "adjusted_value": 444500000.0,
+    "text": "$692 million to $197 million",
+    "context": ":  The FY 2024 cash is projected to decrease from $692 million to $197 million. USTRANSCOM cash balance is $844 million below th",
+    "page": 1,
+    "position": {
+      "start": 73,
+      "end": 101,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 379300000.0,
+    "adjusted_value": 379300000.0,
+    "text": "$379.3M",
+    "context": "rastructure ($82.0), Total FY24 Projected MILCON: $379.3M FY25: T-7A Depot Maintenance Complex ($234M OO-AL",
+    "page": 1,
+    "position": {
+      "start": 349,
+      "end": 356,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 379300000.0,
+    "adjusted_value": 379300000.0,
+    "text": "$379.3M",
+    "context": "rastructure ($82.0), Total FY24 Projected MILCON: $379.3M FY25: T-7A Depot Maintenance Complex ($234M OO-AL",
+    "page": 1,
+    "position": {
+      "start": 349,
+      "end": 356,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "regex fallback",
+    "confidence": 0.7,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 354000000.0,
+    "adjusted_value": 354000000.0,
+    "text": "$354.0 million",
+    "context": "ing cash balance is below the lower boundaries by $354.0 million.",
+    "page": 1,
+    "position": {
+      "start": 251,
+      "end": 265,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 354000000.0,
+    "adjusted_value": 354000000.0,
+    "text": "$354 million",
+    "context": "ing cash balance is below the lower boundaries by $354 million.",
+    "page": 1,
+    "position": {
+      "start": 248,
+      "end": 260,
+      "level": 1
+    },
+    "multiplier": 1.0,
+    "multiplier_source": "",
+    "confidence": 1.0,
+    "element_type": "text",
+    "table_context": ""
+  }
+]

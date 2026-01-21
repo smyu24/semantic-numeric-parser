@@ -1,0 +1,852 @@
+[
+  {
+    "raw_value": 35110.0,
+    "adjusted_value": 35110000000.0,
+    "text": "35,110",
+    "context": "Table 1, column 'FY 2025'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 5,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 34735.0,
+    "adjusted_value": 34735000000.0,
+    "text": "34,735",
+    "context": "Table 1, column 'FY 2024'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 5,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 33848.0,
+    "adjusted_value": 33848000000.0,
+    "text": "33,848",
+    "context": "Table 1, column 'FY 2023'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 5,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 33579.0,
+    "adjusted_value": 33579000000.0,
+    "text": "33,579",
+    "context": "Table 1, column 'FY 2025'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 7,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 32973.0,
+    "adjusted_value": 32973000000.0,
+    "text": "32,973",
+    "context": "Table 1, column 'FY 2024'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 7,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 32839.0,
+    "adjusted_value": 32839000000.0,
+    "text": "32,839",
+    "context": "Table 1, column 'FY 2023'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 7,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 30704.1,
+    "adjusted_value": 30704100000.0,
+    "text": "30,704.1",
+    "context": "Table 1, column 'FY 2025'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 0,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 30083.2,
+    "adjusted_value": 30083200000.0,
+    "text": "30,083.2",
+    "context": "Table 1, column 'FY 2025'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 1,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 29494.7,
+    "adjusted_value": 29494700000.0,
+    "text": "29,494.7",
+    "context": "Table 1, column 'FY 2024'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 1,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 29176.6,
+    "adjusted_value": 29176600000.0,
+    "text": "29,176.6",
+    "context": "Table 1, column 'FY 2024'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 0,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 28239.2,
+    "adjusted_value": 28239200000.0,
+    "text": "28,239.2",
+    "context": "Table 1, column 'FY 2023'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 0,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 27950.4,
+    "adjusted_value": 27950400000.0,
+    "text": "27,950.4",
+    "context": "Table 1, column 'FY 2023'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 1,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 20923.9,
+    "adjusted_value": 20923900000.0,
+    "text": "$20,923.9",
+    "context": "Table 2, column 'FY 2025'",
+    "page": 16,
+    "position": {
+      "table": 2,
+      "row": 2,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 20529.7,
+    "adjusted_value": 20529700000.0,
+    "text": "$20,529.7",
+    "context": "Table 2, column 'FY 2025'",
+    "page": 16,
+    "position": {
+      "table": 2,
+      "row": 1,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 20361.2,
+    "adjusted_value": 20361200000.0,
+    "text": "$20,361.2",
+    "context": "Table 2, column 'FY 2024'",
+    "page": 16,
+    "position": {
+      "table": 2,
+      "row": 2,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 20283.7,
+    "adjusted_value": 20283700000.0,
+    "text": "$20,283.7",
+    "context": "Table 2, column 'FY 2024'",
+    "page": 16,
+    "position": {
+      "table": 2,
+      "row": 1,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 18750.9,
+    "adjusted_value": 18750900000.0,
+    "text": "$18,750.9",
+    "context": "Table 2, column 'FY 2023'",
+    "page": 16,
+    "position": {
+      "table": 2,
+      "row": 1,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 18427.1,
+    "adjusted_value": 18427100000.0,
+    "text": "$18,427.1",
+    "context": "Table 2, column 'FY 2023'",
+    "page": 16,
+    "position": {
+      "table": 2,
+      "row": 2,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 15873.5,
+    "adjusted_value": 15873500000.0,
+    "text": "$15,873.5",
+    "context": "Table 4, column 'FY 2025'",
+    "page": 26,
+    "position": {
+      "table": 4,
+      "row": 0,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 15815.6,
+    "adjusted_value": 15815600000.0,
+    "text": "$15,815.6",
+    "context": "Table 5, column 'FY 2025'",
+    "page": 26,
+    "position": {
+      "table": 5,
+      "row": 2,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 15647.9,
+    "adjusted_value": 15647900000.0,
+    "text": "$15,647.9",
+    "context": "Table 4, column 'FY 2024'",
+    "page": 26,
+    "position": {
+      "table": 4,
+      "row": 0,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 15464.7,
+    "adjusted_value": 15464700000.0,
+    "text": "$15,464.7",
+    "context": "Table 4, column 'FY 2024'",
+    "page": 26,
+    "position": {
+      "table": 4,
+      "row": 1,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 15461.7,
+    "adjusted_value": 15461700000.0,
+    "text": "$15,461.7",
+    "context": "Table 5, column 'FY 2024'",
+    "page": 26,
+    "position": {
+      "table": 5,
+      "row": 2,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 15250.4,
+    "adjusted_value": 15250400000.0,
+    "text": "$15,250.4",
+    "context": "Table 4, column 'FY 2025'",
+    "page": 26,
+    "position": {
+      "table": 4,
+      "row": 1,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 15224.2,
+    "adjusted_value": 15224200000.0,
+    "text": "$15,224.2",
+    "context": "Table 5, column 'FY 2025'",
+    "page": 26,
+    "position": {
+      "table": 5,
+      "row": 1,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 15197.6,
+    "adjusted_value": 15197600000.0,
+    "text": "$15,197.6",
+    "context": "Table 5, column 'FY 2024'",
+    "page": 26,
+    "position": {
+      "table": 5,
+      "row": 1,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 14393.5,
+    "adjusted_value": 14393500000.0,
+    "text": "$14,393.5",
+    "context": "Table 5, column 'FY 2023'",
+    "page": 26,
+    "position": {
+      "table": 5,
+      "row": 1,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 13996.1,
+    "adjusted_value": 13996100000.0,
+    "text": "$13,996.1",
+    "context": "Table 4, column 'FY 2023'",
+    "page": 26,
+    "position": {
+      "table": 4,
+      "row": 1,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 13893.8,
+    "adjusted_value": 13893800000.0,
+    "text": "$13,893.8",
+    "context": "Table 4, column 'FY 2023'",
+    "page": 26,
+    "position": {
+      "table": 4,
+      "row": 0,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 13821.2,
+    "adjusted_value": 13821200000.0,
+    "text": "$13,821.2",
+    "context": "Table 5, column 'FY 2023'",
+    "page": 26,
+    "position": {
+      "table": 5,
+      "row": 2,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: $M",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 13037.0,
+    "adjusted_value": 13037000000.0,
+    "text": "13,037",
+    "context": "Table 1, column 'FY 2025'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 8,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 12885.0,
+    "adjusted_value": 12885000000.0,
+    "text": "12,885",
+    "context": "Table 1, column 'FY 2024'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 8,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 12846.0,
+    "adjusted_value": 12846000000.0,
+    "text": "12,846",
+    "context": "Table 1, column 'FY 2025'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 6,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 12705.0,
+    "adjusted_value": 12705000000.0,
+    "text": "12,705",
+    "context": "Table 1, column 'FY 2024'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 6,
+      "column": "FY 2024"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 12472.0,
+    "adjusted_value": 12472000000.0,
+    "text": "12,472",
+    "context": "Table 1, column 'FY 2023'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 6,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 12388.0,
+    "adjusted_value": 12388000000.0,
+    "text": "12,388",
+    "context": "Table 1, column 'FY 2023'",
+    "page": 13,
+    "position": {
+      "table": 1,
+      "row": 8,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9982.0,
+    "adjusted_value": 9982000000.0,
+    "text": "$9,982.0",
+    "context": "Table 3, column 'FY 2023'",
+    "page": 17,
+    "position": {
+      "table": 3,
+      "row": 2,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9982.0,
+    "adjusted_value": 9982000000.0,
+    "text": "$9,982",
+    "context": "Table 53, column 'FY 2023'",
+    "page": 73,
+    "position": {
+      "table": 53,
+      "row": 1,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9821.0,
+    "adjusted_value": 9821000000.0,
+    "text": "$9,821",
+    "context": "Table 52, column 'FY 2023'",
+    "page": 72,
+    "position": {
+      "table": 52,
+      "row": 5,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9650.0,
+    "adjusted_value": 9650000000.0,
+    "text": "$9,650",
+    "context": "Table 52, column 'FY 2025'",
+    "page": 72,
+    "position": {
+      "table": 52,
+      "row": 5,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9637.0,
+    "adjusted_value": 9637000000.0,
+    "text": "$9,637.0",
+    "context": "Table 3, column 'FY 2023'",
+    "page": 17,
+    "position": {
+      "table": 3,
+      "row": 1,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9637.0,
+    "adjusted_value": 9637000000.0,
+    "text": "$9,637",
+    "context": "Table 53, column 'FY 2023'",
+    "page": 73,
+    "position": {
+      "table": 53,
+      "row": 0,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9.6,
+    "adjusted_value": 9600000000.0,
+    "text": "$9.6",
+    "context": "r, land, and sea transportation for the DoD with a primary focus on wartime readiness. USTRANSCOM's $9.6 billion budget provides synchronized transportation and sustainment, making it possible to project",
+    "page": 1,
+    "position": {
+      "start": 142,
+      "end": 146,
+      "level": 1
+    },
+    "multiplier": 1000000000,
+    "multiplier_source": "billion",
+    "confidence": 0.42,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9.6,
+    "adjusted_value": 9600000000.0,
+    "text": "$9.6",
+    "context": "viding air, land, and sea transportation for the DoD with a primary focus on wartime readiness. Our $9.6 billion budget provides synchronized transportation and sustainment, making it possible to project",
+    "page": 1,
+    "position": {
+      "start": 133,
+      "end": 137,
+      "level": 1
+    },
+    "multiplier": 1000000000,
+    "multiplier_source": "billion",
+    "confidence": 0.42,
+    "element_type": "text",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9567.0,
+    "adjusted_value": 9567000000.0,
+    "text": "$9,567",
+    "context": "Table 51, column 'FY 2023'",
+    "page": 71,
+    "position": {
+      "table": 51,
+      "row": 5,
+      "column": "FY 2023"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9554.0,
+    "adjusted_value": 9554000000.0,
+    "text": "$9,554",
+    "context": "Table 51, column 'FY 2025'",
+    "page": 71,
+    "position": {
+      "table": 51,
+      "row": 5,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9534.0,
+    "adjusted_value": 9534000000.0,
+    "text": "$9,534.0",
+    "context": "Table 3, column 'FY 2025'",
+    "page": 17,
+    "position": {
+      "table": 3,
+      "row": 2,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9534.0,
+    "adjusted_value": 9534000000.0,
+    "text": "$9,534",
+    "context": "Table 53, column 'FY 2025'",
+    "page": 73,
+    "position": {
+      "table": 53,
+      "row": 1,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9521.0,
+    "adjusted_value": 9521000000.0,
+    "text": "$9,521.0",
+    "context": "Table 3, column 'FY 2025'",
+    "page": 17,
+    "position": {
+      "table": 3,
+      "row": 1,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  },
+  {
+    "raw_value": 9521.0,
+    "adjusted_value": 9521000000.0,
+    "text": "$9,521",
+    "context": "Table 53, column 'FY 2025'",
+    "page": 73,
+    "position": {
+      "table": 53,
+      "row": 0,
+      "column": "FY 2025"
+    },
+    "multiplier": 1000000.0,
+    "multiplier_source": "table context: million",
+    "confidence": 0.9,
+    "element_type": "TABLE",
+    "table_context": ""
+  }
+]
